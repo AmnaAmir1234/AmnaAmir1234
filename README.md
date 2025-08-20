@@ -14,17 +14,6 @@
 I'm a Data Science undergraduate at **Air University, Islamabad**, passionate about turning raw data into actionable insights. I love working on end-to-end ML projects, from data preprocessing to deploying prediction models. Currently exploring the intersections of **ML**, **time series forecasting**, and **computer vision**.
 
 ---
-
-### 🛠️ Tech Stack
-👩‍💻 Languages & Tools
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" /> </p>
-🤖 ML & Data Science Libraries
-<p> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-16A085?style=flat" /> </p>
-🧪 Basic Exposure
-<p> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" /> </p>
-🗄️ Databases & Tools
-<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/SSMS-0078D7?style=flat&logo=microsoft&logoColor=white" /> </p>
-
 ### 📌 Projects Highlights
 
 - 💬 **Daraz Review Sentiment Analysis**  
